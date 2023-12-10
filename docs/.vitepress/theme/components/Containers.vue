@@ -1,5 +1,4 @@
 <template>
-<!-- <div class="mt-12 pt-6 w-full border-(0 solid gray-800) dark:border-gray-400" /> -->
 <div
   class="
     suggestion-statement

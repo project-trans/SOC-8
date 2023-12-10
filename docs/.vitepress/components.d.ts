@@ -12,6 +12,5 @@ declare module 'vue' {
     PageInfo: typeof import('./theme/components/PageInfo.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
-    SuggestionStatement: typeof import('./theme/components/SuggestionStatement.vue')['default']
   }
 }
