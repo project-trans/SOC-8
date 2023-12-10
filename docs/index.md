@@ -18,10 +18,6 @@ import HomeContent from './.vitepress/theme/components/HomeContent.vue'
 
 <HomeContent>
 
-::: danger
-本页面尚在测试和开发中，请谨慎使用，请勿传播。
-:::
-
 ::: tip ℹ️
 本文为WPATH的授权翻译版本，原文是一篇开放获取文章，根据 [知识共享：署名-非商业性使用-禁止演绎4.0国际公共许可协议](http://creativecommons.org/licenses/by-nc-nd/4.0/) 的条款分发，允许以任何媒介进行非商业性再次使用、分发和复制，前提是原始作品被正确引用，并且不以任何方式更改、转换或基于该作品创作。
 :::
