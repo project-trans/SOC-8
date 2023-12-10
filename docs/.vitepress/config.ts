@@ -10,6 +10,7 @@ import { sidebar } from './sidebar'
 export default defineConfig({
   title: "SOC-8",
   description: "跨性别和多元性别人群健康照护指南第八版（SOC-8）",
+  base: '/SOC-8/',
   markdown: {
     config(md) {
       md.use(mdPangu);
