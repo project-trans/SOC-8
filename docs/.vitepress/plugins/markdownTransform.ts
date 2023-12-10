@@ -12,7 +12,6 @@ export function MarkdownTransform(): Plugin {
         return null
 
       id = relative(ROOT, id)
-
       if (id == 'index.md')
         return null
 
@@ -24,7 +23,7 @@ export function MarkdownTransform(): Plugin {
 }
 
 
-const pageHeaderTemplate = (code: string) => code.replace(/(---\n\n)/, `$1
+const pageHeaderTemplate = (code: string) => code.replace(/(^---$(\s|\S)+^---$)/m, `$1
 
 # {{ $frontmatter.title }}
 
