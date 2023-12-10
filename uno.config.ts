@@ -1,5 +1,6 @@
-import { presetAttributify, presetIcons, presetUno } from 'unocss'
-import { defineConfig } from "unocss";
+import { presetAttributify, presetIcons, presetTypography, presetUno, transformerVariantGroup } from 'unocss'
+import { defineConfig } from "unocss"
+import { presetExtra } from 'unocss-preset-extra'
 
 export default defineConfig({
   shortcuts: [
@@ -10,6 +11,8 @@ export default defineConfig({
       dark: 'class',
     }),
     presetAttributify(),
+    presetExtra(),
+    presetTypography(),
     presetIcons({
       prefix: 'i-',
       scale: 1,
@@ -20,5 +23,8 @@ export default defineConfig({
       },
       warn: true,
     }),
+  ],
+  transformers: [
+    transformerVariantGroup(),
   ],
 })
