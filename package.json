@@ -1,0 +1,36 @@
+{
+  "name": "rle-wiki",
+  "version": "1.0.0",
+  "description": "RLE指北",
+  "license": "CC-BY-SA-4.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "build:old": "vuepress build docs",
+    "clean-dev:old": "vuepress dev docs --clean-cache",
+    "dev:old": "vuepress dev docs",
+    "update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@iconify-json/octicon": "^1.1.51",
+    "@types/markdown-it": "^13.0.7",
+    "@types/markdown-it-footnote": "^3.0.3",
+    "markdown-it-footnote": "^3.0.3",
+    "markdown-it-katex": "^2.0.3",
+    "markdown-it-pangu": "^1.0.2",
+    "unocss": "^0.58.0",
+    "unplugin-vue-components": "^0.26.0",
+    "vite": "^5.0.5",
+    "vitepress": "^1.0.0-rc.31",
+    "vitepress-sidebar": "^1.18.0",
+    "vue": "^3.3.8",
+    "vuepress": "2.0.0-rc.0",
+    "vuepress-theme-hope": "2.0.0-rc.0"
+  },
+  "dependencies": {
+    "katex": "^0.16.9",
+    "vuepress-plugin-md-enhance": "2.0.0-rc.0"
+  }
+}
