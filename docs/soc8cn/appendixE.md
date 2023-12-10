@@ -1,0 +1,206 @@
+---
+title: 附录E 性别肯定手术干预
+order: 1005
+---
+
+随着有关性别不一致的诸多方面的认识不断深入，以及技术的发展使得能够开展更多的治疗，有必要认识到这个列表并不是详尽无遗的。特别是考虑到更新《照护指南》所需的时间通常较长，期间可能出现对认识和治疗模式的进一步演变。
+
+<table>
+    <tr>
+        <th colspan="2"><b>面部手术</b></th>
+    </tr>
+    <tr>
+        <td>眉</td>
+        <td>
+            <ul>
+                <li>缩眉术（brow reduction）</li>
+                <li>隆眉术（brow augmentation）</li>
+                <li>提眉术（brow lifting）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>发际线前移和/或毛发移植</td>
+    </tr>
+    <tr>
+        <td>面部提升（facelift）/面中部提升（mid-face lift）（在改变了基础骨骼结构后）</td>
+    </tr>
+    <tr>
+        <td>面部提升/面中部提升（在改变了基础骨骼结构后）</td>
+        <td>
+            <ul>
+                <li>颈部提拉术（platysmaplasty）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>睑成形术</td>
+        <td>
+            <ul>
+                <li>脂肪填充</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>鼻成形术（+ / - 填充物）</td>
+    </tr>
+    <tr>
+        <td>颊</td>
+        <td>
+            <ul>
+                <li>假体植入</li>
+                <li>脂肪填充</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>嘴唇</td>
+        <td>
+            <ul>
+                <li>人中缩短</li>
+                <li>丰唇（包括自体和非自体）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>下颌（骨）</td>
+        <td>
+            <ul>
+                <li>缩小下颌角</li>
+                <li>隆下颌</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>下巴重塑</td>
+        <td>
+            <ul>
+                <li>截骨塑形（osteoplastic）</li>
+                <li>异体塑形（alloplastic）（基于植入物）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>喉软骨成形术</td>
+        <td>
+            <ul>
+                <li>声带手术（见嗓音章节）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>乳房/胸部手术</b></td>
+    </tr>
+    <tr>
+        <td>乳房切除术</td>
+        <td>
+            <ul>
+                <li>乳房切除术，并保留/再造乳头–乳晕，若对特定个体而言是医疗必要的</li>
+                <li>不保留/再造乳头–乳晕的乳房切除术，若对特定个体而言是医疗必要的</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>抽脂术</td>
+    </tr>
+    <tr>
+        <td>胸部再造（隆胸术）</td>
+        <td>
+            <ul>
+                <li>植入物和/或组织扩张器</li>
+                <li>自体组织（包括基于皮瓣和脂肪填充）</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>生殖器手术</b></td>
+    </tr>
+    <tr>
+        <td>阴茎成形术（含/不含阴囊成形术）</td>
+        <td>
+            <ul>
+                <li>含/不含尿道延长术</li>
+                <li>带/不带假体（阴茎和/或睾丸）</li>
+                <li>含/不含阴道切除术</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>阴蒂释放术（含/不含阴囊成形术）</td>
+        <td>
+            <ul>
+                <li>含/不含尿道延长术</li>
+                <li>带/不带假体（阴茎和/或睾丸）</li>
+                <li>含/不含阴道切除术</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>阴道成形术（皮瓣翻转、腹膜、肠道）</td>
+        <td>
+            <ul>
+                <li>可能包括保留阴茎和/或睾丸*</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>外阴成形术</td>
+        <td>
+            <ul>
+                <li>可能包括称为“前部平坦”（flat front）的项目</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>性腺切除术</b></td>
+    </tr>
+    <tr>
+        <td>睾丸切除术</td>
+    </tr>
+    <tr>
+        <td>子宫切除术和/或输卵管卵巢切除术</td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>身体塑形</b></td>
+    </tr>
+    <tr>
+        <td>抽脂术（脂肪抽吸术）</td>
+        <td rowspan="3">
+            <ul>
+                <li>胸、臀、大腿、小腿</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>脂肪填充术</td>
+    </tr>
+    <tr>
+        <td>假体植入</td>
+    </tr>
+    <tr>
+        <td>阴阜整形、阴阜缩小或者阴阜提升</td>
+    </tr>
+    <tr>
+        <td colspan="2"><b>补充程序</b></td>
+    </tr>
+    <tr>
+        <td>脱毛：从面部、身体和生殖器部位脱毛，用于性别肯定或作为术前准备过程的一部分（见关于脱毛的声明15.14）</td>
+        <td>
+            <ul>
+                <li>电针</li>
+                <li>激光</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>纹身（即乳头乳晕纹绣）</td>
+    </tr>
+    <tr>
+        <td>子宫移植</td>
+    </tr>
+    <tr>
+        <td>阴茎移植</td>
+    </tr>
+</table>
+
+\* 译者注：原文为May include retention of penis and/or testicle.

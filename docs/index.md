@@ -18,7 +18,7 @@ import HomeContent from './.vitepress/theme/components/HomeContent.vue'
 
 <HomeContent>
 
-::: tip ℹ️
+::: danger
 本页面尚在测试和开发中，请谨慎使用，请勿传播。
 :::
 
