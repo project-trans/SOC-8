@@ -43,7 +43,7 @@ export default defineConfig({
     },
 
     // label localization
-    outline: { label: '本页大纲' },
+    outline: { label: '本页大纲', level: 'deep' },
     lastUpdated: { text: '最后更新' },
     darkModeSwitchLabel: '深色模式',
     sidebarMenuLabel: '目录',
