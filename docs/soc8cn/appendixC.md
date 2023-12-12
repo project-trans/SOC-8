@@ -85,15 +85,13 @@ S 基于螺内酯的干预方案
 
 <table>
     <tr>
-        <th rowspan="9"><b>基于雌激素的方案 （女性倾向）</b></th>
-        <th rowspan="5">雌激素</th>
-        <th rowspan="2">
-            <p>口服</p>
-            <p>或</p>
-            <p>舌下含服</p>
-        </th>
-        <th rowspan="2">雌二醇</th>
-        <th rowspan="2">每日 2.0-6.0 mg</th>
+        <td rowspan="9"><b>基于雌激素的方案 （女性倾向）</b></td>
+        <td rowspan="5">雌激素</td>
+        <td rowspan="2">
+            <p>口服或舌下含服</p>
+        </td>
+        <td rowspan="2">雌二醇</td>
+        <td rowspan="2">每日 2.0-6.0 mg</td>
     </tr>
     <tr></tr>
     <tr>
@@ -103,8 +101,7 @@ S 基于螺内酯的干预方案
     </tr>
     <tr>
         <td>不同种类的雌二醇凝胶</td>
-        <td>
-            <p>用量因药物剂型和浓度而异</p>
+         <td>
             <p>‡ 每日涂抹</p>
         </td>
     </tr>
@@ -125,8 +122,7 @@ S 基于螺内酯的干预方案
     <tr>
         <td>醋酸环丙孕酮</td>
         <td>
-            <p>Kuijpers et al (2021).</p>
-            <p>每日 10 mg **</p>
+            <p>每日 10 mg <sup>**</sup></p>
         </td>
     </tr>
     <tr>
