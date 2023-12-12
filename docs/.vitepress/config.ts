@@ -7,12 +7,13 @@ import { sidebar } from './sidebar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  vite: { 
-    ssr: { 
-      noExternal: [ 
-        '@nolebase/vitepress-plugin-enhanced-readabilities', 
-      ], 
-    }, 
+  vite: {
+    ssr: {
+      noExternal: [
+        '@nolebase/vitepress-plugin-enhanced-readabilities',
+        '@nolebase/vitepress-plugin-highlight-targeted-heading'
+      ],
+    },
   },
   title: "SOC-8",
   description: "跨性别和多元性别人群健康照护指南第八版（SOC-8）",
