@@ -5,7 +5,7 @@ order: 28
 
 本章旨在向为成年跨性别和多元性别（TGD）人士提供心理健康照护服务的医务人员（HCP）和心理健康专业人士（MHP）提供指导。这并不意味着本章可以替代关于对激素或手术干预进行评估的章节。许多TGD个体在其过渡过程中可能不需要治疗或其他形式的心理健康照护，而另一些人则可能从心理健康服务提供者和系统支持中受益（Dhejne et al., 2016）。
 
-一些研究表明，与一般人群相比，TGD人群中抑郁（Witcomb et al., 2018）、焦虑（Bouman et al., 2017）和自杀（Arcelus et al., 2016; Bränström & Pachankis, 2022; Davey et al., 2016; Dhejne, 2011; Herman et al., 2019）的流行率更高（Jones et al., 2019; Thorne, Witcomb et al., 2019），对于要求进行医疗必要的性别肯定医疗（GAMT）的个体尤为如此（参见 **[第二章 全球适用性](./section2)** 声明2.1，医疗必要性声明）。然而跨性别其本身并不是一种精神障碍，精神障碍比率的升高与复合型创伤、社会污名、暴力和歧视有关（Nuttbrock et al., 2014; Peterson et al., 2021）。此外，适当的性别肯定照护（Aldridge et al., 2020; Almazan and Keuroghlian; 2021; Bauer et al., 2015; Grannis et al., 2021）以及减少歧视和少数群体压力的干预措施（Bauer et al., 2015; Heylens, Verroken et al., 2014; McDowell et al., 2020）可以减轻心理症状。
+一些研究表明，与一般人群相比，TGD人群中抑郁（Witcomb et al., 2018）、焦虑（Bouman et al., 2017）和自杀（Arcelus et al., 2016; Bränström & Pachankis, 2022; Davey et al., 2016; Dhejne, 2011; Herman et al., 2019）的流行率更高（Jones et al., 2019; Thorne, Witcomb et al., 2019），对于要求进行医疗必要的性别肯定医疗（GAMT）的个体尤为如此（参见 [**第二章 全球适用性** 声明2.1，医疗必要性声明](./section2)）。然而跨性别其本身并不是一种精神障碍，精神障碍比率的升高与复合型创伤、社会污名、暴力和歧视有关（Nuttbrock et al., 2014; Peterson et al., 2021）。此外，适当的性别肯定照护（Aldridge et al., 2020; Almazan and Keuroghlian; 2021; Bauer et al., 2015; Grannis et al., 2021）以及减少歧视和少数群体压力的干预措施（Bauer et al., 2015; Heylens, Verroken et al., 2014; McDowell et al., 2020）可以减轻心理症状。
 
 心理健康治疗需要由专业人员提供，并通过使用尊重来访者的自主权和认可多元性别特质的系统来实施。为跨性别人士提供服务的MHP应该采用积极倾听的方法来鼓励那些对自己的性别认同不确定的个体进行探索。MHP不应强加自己的叙事或先入之见，而是应帮助来访者确定自己的道路。尽管许多跨性别者需要药物或手术干预，或寻求心理健康照护，也有许多个体不需要（Margulies et al., 2021）。因此，通过临床人群获得的研究结果不应推广到整个跨性别群体。
 
