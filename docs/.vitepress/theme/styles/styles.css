@@ -15,3 +15,8 @@
   /* 使脚注行更密集，在视觉上让他们群聚以获得更高和更集中的专注度 */
   line-height: 1.4;
 }
+
+/* 修复大纲侧边栏的奇怪的阴影 */
+.VPDoc .VPDocAside .VPDocAsideOutline .outline-title {
+  box-shadow: none;
+}
