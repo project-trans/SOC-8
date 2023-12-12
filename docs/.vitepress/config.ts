@@ -1,9 +1,8 @@
-import { defineConfig, type DefaultTheme } from 'vitepress'
+import { defineConfig } from 'vitepress'
 import nav from './nav'
 import mdPangu from "markdown-it-pangu"
 import katex from 'markdown-it-katex'
 import footnote from 'markdown-it-footnote'
-import { generateSidebar } from 'vitepress-sidebar'
 import { sidebar } from './sidebar'
 
 // https://vitepress.dev/reference/site-config

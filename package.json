@@ -1,7 +1,7 @@
 {
-  "name": "rle-wiki",
+  "name": "soc-8",
   "version": "1.0.0",
-  "description": "RLE指北",
+  "description": "跨性别和多元性别人群健康照护指南第八版（SOC-8）",
   "license": "CC-BY-SA-4.0",
   "type": "module",
   "scripts": {
@@ -20,6 +20,7 @@
     "markdown-it-footnote": "^3.0.3",
     "markdown-it-katex": "^2.0.3",
     "markdown-it-pangu": "^1.0.2",
+    "typescript": "^5.3.3",
     "unocss": "^0.58.0",
     "unocss-preset-extra": "^0.5.3",
     "unplugin-vue-components": "^0.26.0",
