@@ -7,6 +7,7 @@ import { sidebar } from './sidebar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'zh-CN',
   vite: {
     ssr: {
       noExternal: [
