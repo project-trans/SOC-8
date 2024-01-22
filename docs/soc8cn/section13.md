@@ -7,7 +7,7 @@ order: 23
 
 在认可TGD社群中的多元和异质性的同时，GAS治疗可以分为针对出生时受指派性别为男性（assigned male at birth, AMAB）和出生时受指派性别为女性（assigned female at birth, AFAB）个体提供的两类手术程序谱系。
 
-目前的文献肯定在符合适应证的TGD个体中进行GAS的益处。尽管在进行GAS后可能会发生并发症，但许多并发症或相对轻微，或可通过当地门诊照护进行治疗（Canner et al., 2018; Gaither et al., 2018; Morrison et al., 2016）。此外，GAS的并发症发生率与为不同诊断进行的类似手术（即非GAS）的并发症发生率并无差异。
+目前的文献肯定在符合适应症的TGD个体中进行GAS的益处。尽管在进行GAS后可能会发生并发症，但许多并发症或相对轻微，或可通过当地门诊照护进行治疗（Canner et al., 2018; Gaither et al., 2018; Morrison et al., 2016）。此外，GAS的并发症发生率与为不同诊断进行的类似手术（即非GAS）的并发症发生率并无差异。
 
 对于AFAB个体，性别肯定胸部手术或“平胸术”（即“皮下乳房切除术”）已经在前瞻性研究（Agarwal et al., 2018; Frederick et al., 2017; Top & Balta, 2017; van de Grift, Elaut et al., 2017; van de Grift et al., 2016）、回顾性研究（Bertrand et al., 2017; Claes et al., 2018; Esmonde et al., 2019; Lo Russo et al., 2017; Marinkovic & Newfield, 2017; Poudrier et al., 2019; Wolter et al., 2015; Wolter et al., 2018）和横断面队列研究（Olson-Kennedy, Warus et al., 2018; Owen-Smith et al., 2018; van de Grift, Elaut et al., 2018; van de Grift, Elfering et al., 2018）中加以探讨。平胸术的疗效已在多个领域得到证明，如健康相关的生活质量得到一致且直接的提高、性别烦躁显著降低，以及对身体和外观的满意度一致增加。此外，后悔率始终很低，从0%到4%不等。尽管平胸手术对于抑郁、焦虑和性功能等其它预后指标也有帮助，但这些研究尚不足以得出明确的结论。虽然仍需进一步研究以得出更有力的结论，但证据表明平胸手术是一种安全和有效的手术治疗。
 
