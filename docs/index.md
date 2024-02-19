@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: 简体中文翻译
       link: /soc8cn/
+    - theme: alt
+      text: 其他语言版本
+      link: https://www.wpath.org/soc8
 
 ---
 
