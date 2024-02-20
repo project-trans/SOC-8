@@ -9,6 +9,12 @@ hero:
     - theme: brand
       text: 简体中文翻译
       link: /soc8cn/
+    - theme: alt
+      text: 英语
+      link: https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644
+    - theme: alt
+      text: 其他语言翻译
+      link: https://www.wpath.org/soc8/Translation
 
 ---
 
