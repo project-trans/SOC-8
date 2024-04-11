@@ -8,8 +8,8 @@ import './styles/styles.css'
 import 'uno.css'
 
 import {
-  NolebaseEnhancedReadabilitiesPlugin,
   NolebaseEnhancedReadabilitiesMenu,
+  NolebaseEnhancedReadabilitiesPlugin,
   NolebaseEnhancedReadabilitiesScreenMenu,
 } from '@nolebase/vitepress-plugin-enhanced-readabilities'
 
@@ -19,12 +19,11 @@ import {
 } from '@nolebase/vitepress-plugin-highlight-targeted-heading'
 
 import {
-  NolebaseGitChangelogPlugin
+  NolebaseGitChangelogPlugin,
 } from '@nolebase/vitepress-plugin-git-changelog/client'
 
 import '@nolebase/vitepress-plugin-enhanced-readabilities/dist/style.css'
 import '@nolebase/vitepress-plugin-highlight-targeted-heading/dist/style.css'
-import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
 
 export default {
   extends: DefaultTheme,
@@ -44,15 +43,15 @@ export default {
     app.use(NolebaseEnhancedReadabilitiesPlugin, {
       spotlight: {
         defaultToggle: true,
-      }
+      },
     })
     app.use(NolebaseNolebaseHighlightTargetedHeadingPlugin)
     app.use(NolebaseGitChangelogPlugin, {
       locales: {
         'zh-CN': {
-          lastEditedDateFnsLocaleName: 'zhCN'
-        }
-      }
+          lastEditedDateFnsLocaleName: 'zhCN',
+        },
+      },
     })
-  }
+  },
 } satisfies Theme
