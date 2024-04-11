@@ -1,5 +1,5 @@
+import { relative, resolve } from 'node:path'
 import type { Plugin } from 'vite'
-import { resolve, relative } from 'path'
 
 const ROOT = resolve(__dirname, '../../')
 
@@ -12,7 +12,7 @@ export function MarkdownTransform(): Plugin {
         return null
 
       id = relative(ROOT, id)
-      if (id == 'index.md')
+      if (id === 'index.md')
         return null
 
       code = pageHeaderTemplate(code)
@@ -22,11 +22,12 @@ export function MarkdownTransform(): Plugin {
   }
 }
 
-
-const pageHeaderTemplate = (code: string) => code.replace(/(^---$(\s|\S)+^---$)/m, `$1
+function pageHeaderTemplate(code: string) {
+  return code.replace(/(^---$(\s|\S)+^---$)/m, `$1
 
 # {{ $frontmatter.title }}
 
 <PageInfo />
 
 `)
+}

@@ -1,7 +1,7 @@
-import { type DefaultTheme } from 'vitepress'
+import type { DefaultTheme } from 'vitepress'
 import { generateSidebar } from 'vitepress-sidebar'
 
-export const sidebar =  generateSidebar([
+export const sidebar = generateSidebar([
   // 大学指南
   {
     documentRootPath: '/docs',

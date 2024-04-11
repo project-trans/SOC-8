@@ -1,11 +1,11 @@
-import { defineConfig } from 'vitepress'
-import nav from './nav'
-import mdPangu from "markdown-it-pangu"
-import katex from 'markdown-it-katex'
-import footnote from 'markdown-it-footnote'
-import { sidebar } from './sidebar'
 import { readFileSync, statSync } from 'node:fs'
 import { join } from 'node:path'
+import { defineConfig } from 'vitepress'
+import mdPangu from 'markdown-it-pangu'
+import katex from 'markdown-it-katex'
+import footnote from 'markdown-it-footnote'
+import nav from './nav'
+import { sidebar } from './sidebar'
 
 const dir = 'docs'
 const siteTitle = 'SOC-8'
@@ -17,17 +17,17 @@ export default defineConfig({
     ssr: {
       noExternal: [
         '@nolebase/vitepress-plugin-enhanced-readabilities',
-        '@nolebase/vitepress-plugin-highlight-targeted-heading'
+        '@nolebase/vitepress-plugin-highlight-targeted-heading',
       ],
     },
   },
-  title: "SOC-8",
+  title: 'SOC-8',
   base: '/SOC-8/',
   markdown: {
     config(md) {
-      md.use(mdPangu);
-      md.use(footnote);
-      md.use(katex);
+      md.use(mdPangu)
+      md.use(footnote)
+      md.use(katex)
     },
   },
   dir,
@@ -42,7 +42,7 @@ export default defineConfig({
     sidebar,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/project-trans/SOC-8' }
+      { icon: 'github', link: 'https://github.com/project-trans/SOC-8' },
     ],
 
     editLink: {
@@ -72,16 +72,16 @@ export default defineConfig({
         'meta',
         {
           property: 'og:title',
-          content: siteTitle
-        }
+          content: siteTitle,
+        },
       ])
 
       head.push([
         'meta',
         {
           name: 'description',
-          content: '跨性别和多元性别人群健康照护指南第八版（SOC-8）'
-        }
+          content: '跨性别和多元性别人群健康照护指南第八版（SOC-8）',
+        },
       ])
 
       return head
@@ -135,35 +135,34 @@ export default defineConfig({
     // trim space
     pageContent = pageContent.trim()
     // if pageSourceFileContent is longer than 200 characters, add ellipsis
-    if (pageSourceFileContent.length > 100) {
+    if (pageSourceFileContent.length > 100)
       pageContent += '...'
-    }
 
     head.push([
       'meta',
-      { name: 'description', content: pageContent }
+      { name: 'description', content: pageContent },
     ])
 
     head.push([
       'meta',
-      { property: 'og:title', content: context.title }
+      { property: 'og:title', content: context.title },
     ])
 
     head.push([
       'meta',
-      { property: 'og:description', content: pageContent }
+      { property: 'og:description', content: pageContent },
     ])
 
     head.push([
       'meta',
-      { property: 'og:title', content: context.title }
+      { property: 'og:title', content: context.title },
     ])
 
     head.push([
       'meta',
-      { property: 'twitter:description', content: pageContent }
+      { property: 'twitter:description', content: pageContent },
     ])
 
     return head
-  }
+  },
 })

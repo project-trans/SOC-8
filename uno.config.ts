@@ -1,5 +1,11 @@
-import { presetAttributify, presetIcons, presetTypography, presetUno, transformerVariantGroup } from 'unocss'
-import { defineConfig } from "unocss"
+import {
+  defineConfig,
+  presetAttributify,
+  presetIcons,
+  presetTypography,
+  presetUno,
+  transformerVariantGroup,
+} from 'unocss'
 import { presetExtra } from 'unocss-preset-extra'
 
 export default defineConfig({
