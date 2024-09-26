@@ -6,6 +6,7 @@ order: 1005
 随着有关性别不一致的诸多方面的认识不断深入，以及技术的发展使得能够开展更多的治疗，有必要认识到这个列表并不是详尽无遗的。特别是考虑到更新《照护指南》所需的时间通常较长，期间可能出现对认识和治疗模式的进一步演变。
 
 <table>
+  <tbody>
     <tr>
         <th colspan="2"><b>面部手术</b></th>
     </tr>
@@ -201,6 +202,7 @@ order: 1005
     <tr>
         <td>阴茎移植</td>
     </tr>
+  </tbody>
 </table>
 
 \* 译者注：原文为May include retention of penis and/or testicle.

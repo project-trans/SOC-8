@@ -15,6 +15,7 @@ const nav = [
 
 const baseConfig = {
   useTitleFromFrontmatter: true,
+  sortMenusByFrontmatterOrder: true,
   useFolderTitleFromIndexFile: true,
   useFolderLinkFromIndexFile: true,
   excludeFilesByFrontmatterFieldName: true,
@@ -27,12 +28,14 @@ const sidebarOptions = [
     ...baseConfig,
     scanStartPath: 'soc8cn',
     resolvePath: '/soc8cn/',
+    sortMenusByFrontmatterOrder: true,
   }
 ]
 
 const themeConfig: ThemeContext = {
   siteTitle: 'SOC-8',
   siteDescription: '跨性别和多元性别人群健康照护指南第八版（SOC-8）',
+  baseUrl: '/SOC-8/',
   /** Repo */
   githubRepoLink: 'https://github.com/project-trans/SOC-8',
   /** vitepress 根目录 */
@@ -41,6 +44,8 @@ const themeConfig: ThemeContext = {
   include: ['soc8cn'],
   nav,
   sidebarOptions,
+  enableChangeLog: false,
+  enableSuggestionBox: false,
 }
 
 // https://vitepress.dev/reference/site-config
