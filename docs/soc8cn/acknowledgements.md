@@ -3,8 +3,6 @@ title: 致谢
 order: 101
 ---
 
-## 致谢
-
 感谢约翰斯霍普金斯大学医学教授Karen A. Robinson及其团队进行了所有系统综述，并在SOC-8建议的制定中提供了帮助。在伦理考虑方面，我们感谢Carol Bayley、Simona Giordano和Sharon Sytsma的贡献。在法律角度上，我们感谢Jennifer Levi和Phil Duran的专业支持。参考文献核对方面，我们感谢Taymy Caso、Oscar Dimant、Zil Goldstein、Ali Harris和Nat Thorne的工作。编辑方面，我们感谢Margueritte White和Jun Xia的帮助。行政支持方面，我们感谢Blaine Vella、Taylor O'Sullivan和Jamie Hicks的支持。最后，我们要感谢所有在公开评论期间提供意见的参与者以及全球跨性别平等行动（Global Action for Trans Equality, GATE），亚太跨性别网络（Asia Pacific Transgender Network Foundation, APTN），国际女同性恋、男同性恋、双性恋、跨性别和间性协会（International Lesbian, Gay, Bisexual, Trans and Intersex Association, ILGA）和欧洲跨性别者协会（Transgender Europe, TGEU）对SOC-8早期版本的有益和建设性的反馈。
 
 ## 利益冲突
