@@ -30,3 +30,5 @@ coverage/
 
 # macOS
 .DS_Store
+
+*.d.ts
