@@ -50,6 +50,7 @@ const themeConfig: ThemeContext = {
   sitePattern: `docs`,
   HideAuthors: true,
   HideLastUpdated: true,
+  hostName: "https://project-trans.org/SOC-8/",
 }
 
 // https://vitepress.dev/reference/site-config
